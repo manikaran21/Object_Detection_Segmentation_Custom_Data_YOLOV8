@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Colab Notebooks/YoloV8/cell_data/train/images
+val: /content/drive/MyDrive/Colab Notebooks/YoloV8/cell_data/valid/images
+test: /content/drive/MyDrive/Colab Notebooks/YoloV8/cell_data/test/images
+
+nc: 1
+names: ['cell']
